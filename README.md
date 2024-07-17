@@ -39,3 +39,14 @@ Data Visualization using Dashboard
 📢 Total Interest is 8.0 Million.
 
 📢 Total Transaction Count is 667.2k
+
+📢 Male customers are contributing more in revenue 31M, female 26M
+
+📢  Blue & Silver credit card are contributing to 93% of overall
+transactions
+
+📢 TX, NY & CA is contributing to 68%
+
+📢 Overall Activation rate is 57.5%
+
+📢  Overall Delinquent rate is 6.06%
